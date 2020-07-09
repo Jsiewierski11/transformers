@@ -12,6 +12,9 @@ __pycache__/
 tests/fixtures
 logs/
 
+# Datasets
+data/
+
 # Distribution / packaging
 .Python
 build/
